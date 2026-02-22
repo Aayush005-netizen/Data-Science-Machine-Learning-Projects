@@ -4,6 +4,12 @@ A **Content-Based Movie Recommender System** built using Python that suggests mo
 
 ---
 
+## 🔄 System Workflow Overview
+
+![Content-Based Movie Recommender System Workflow]([images/workflow.png](https://raw.githubusercontent.com/Aayush005-netizen/Data-Science-Machine-Learning-Projects/main/Images/workflow.png))
+
+---
+
 ## 📌 Types of Recommender Systems
 
 Before diving into the project, it's important to understand the three common approaches to building recommender systems:
